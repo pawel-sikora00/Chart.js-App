@@ -1,6 +1,4 @@
-# Landingi-recruitment-task
-
-Application initialized with Vite,
+# Chart.js App
 
 Technologies used:
 -Typescript,
@@ -10,4 +8,4 @@ Technologies used:
 -Jest,
 -TailwindCSS,
 -Material UI,
--Framer Motion.,
+-Framer Motion.
